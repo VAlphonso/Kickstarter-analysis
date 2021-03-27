@@ -6,7 +6,7 @@
 	In this project, I examined how different theatrical campaigns fared in relation to their launch dates and fundraising goals.  I measured the outcomes of fundraisers for plays, in terms of their success, fail, or cancel rates and if they met their goal by their launch date.  I will visualize these results using graphs and tables on Excel.  
 
 
-### **Purpose**
+### Purpose
 
 
 	I did this analysis to give Louise, my client, a better understanding of how different campaigns, in our case theatrical plays, fared in relation to their funding goals.  And to give her a better sense of when to launch these fundraising campaigns.  
