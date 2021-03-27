@@ -1,6 +1,6 @@
-# ***Kickstarting with Excel***
+# Kickstarting with Excel
 
-## **Overview of Project**
+## Overview of Project
 
 
 	In this project, I examined how different theatrical campaigns fared in relation to their launch dates and fundraising goals.  I measured the outcomes of fundraisers for plays, in terms of their success, fail, or cancel rates and if they met their goal by their launch date.  I will visualize these results using graphs and tables on Excel.  
