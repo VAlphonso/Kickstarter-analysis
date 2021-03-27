@@ -27,7 +27,7 @@
 
 ### Challenges and Difficulties Encountered
   Throughout the analysis, I found that the data set was small and did not reflect the entire picture.  For example, it neither answer how many people donated to a particular play nor how the money was distributed within each play.  Did a play have one particular investor that funded the entire play or was it advertised more?  What was the distribution of the funds? Was the money used for more fundraising opportunities or solely to pay for the actors?  
-	These are a few of the questions that would give a deeper understanding of what was going on to make the fundraising campaigns a success or failure.  
+  These are a few of the questions that would give a deeper understanding of what was going on to make the fundraising campaigns a success or failure.  
 
 ## Results
 
